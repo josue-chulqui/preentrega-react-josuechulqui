@@ -1,5 +1,6 @@
 import cart from "./assets/cart.ico"
 
+
 const CarWidget = () => {
     return (
         <div>
